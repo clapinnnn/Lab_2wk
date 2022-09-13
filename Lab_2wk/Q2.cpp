@@ -39,5 +39,4 @@ int main() {
 	else
 		cout << "Æ²·È½À´Ï´Ù" << endl;
 
-
 }
